@@ -18,6 +18,7 @@
 ## Города/Регионы
 ### А
 [Азов](http://gorodazov.ru/docs/O_data.html)
+
 [Алтайский Край](http://rubtsovsk.org/opendata)
 [Ангара](http://angarsk-adm.ru/opendata/)
 [Армавир](https://www.armawir.ru/opendata.php)
